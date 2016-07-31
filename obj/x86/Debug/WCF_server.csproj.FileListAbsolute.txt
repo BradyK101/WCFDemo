@@ -1,0 +1,6 @@
+D:\MyVisualStudioProjects\WCF_Demo\bin\Debug\WCF_Demo.exe.config
+D:\MyVisualStudioProjects\WCF_Demo\bin\Debug\WCF_Demo.exe
+D:\MyVisualStudioProjects\WCF_Demo\bin\Debug\WCF_Demo.pdb
+D:\MyVisualStudioProjects\WCF_Demo\obj\x86\Debug\WCF_Demo.exe
+D:\MyVisualStudioProjects\WCF_Demo\obj\x86\Debug\WCF_Demo.pdb
+D:\MyVisualStudioProjects\WCF_Demo\obj\x86\Debug\WCF_server.csprojResolveAssemblyReference.cache
